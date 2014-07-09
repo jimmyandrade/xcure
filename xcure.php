@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Name Of The Plugin
+ * Plugin Name: XCure
  * Plugin URI: http://URI_Of_Page_Describing_Plugin_and_Updates
  * Description: Protect your site against suspicious requests.
  * Version: 1.0
